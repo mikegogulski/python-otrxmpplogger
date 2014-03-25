@@ -12,6 +12,12 @@ Features
 -  Log to multiple destinations
 -  Optionally check log destinations' OTR fingerprints
 
+Installation
+------------
+
+    $ sudo pip install --pre xmpppy  # xmpppy is tagged as an "rc" version
+    $ sudo pip install otrxmpplogger
+
 Example
 -------
 

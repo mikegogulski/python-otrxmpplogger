@@ -8,7 +8,7 @@ setup(
     maintainer='Mike Gogulski',
     maintainer_email='mike@gogulski.com',
     url='https://github.com/mikegogulski/python-otrxmpplogger',
-    version='1.0.1',
+    version='1.0.2',
     packages=['otrxmpplogger', ],
     install_requires=[
         'xmpppy',
