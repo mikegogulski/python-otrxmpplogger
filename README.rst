@@ -15,6 +15,8 @@ Features
 Installation
 ------------
 
+::
+
     $ sudo pip install --pre xmpppy  # xmpppy is tagged as an "rc" version
     $ sudo pip install otrxmpplogger
 
